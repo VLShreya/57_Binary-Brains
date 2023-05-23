@@ -1,7 +1,7 @@
 # 57_Binary-Brains
 WIEHACK 4.0
-Title: AccuLoad
-Sub-title: Accurate Prediction of Truck's Load Carrying Capacity
+# Title: AccuLoad
+# Sub-title: Accurate Prediction of Truck's Load Carrying Capacity
 
 ---
 
