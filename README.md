@@ -21,6 +21,7 @@ This project aims to estimate the weight that a truck can carry by considering p
 - Python (version 3.0)
 - NumPy,Pandas,Matplotlib,Seaborn,Sklearn
 
-
+# Demonstration
+(https://drive.google.com/drive/folders/1tU7VtrCPB8kOqkbqbWGdNXD_gvrG60ek?usp=sharing)
 ---
 
