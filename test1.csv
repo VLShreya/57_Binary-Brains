@@ -1,0 +1,81 @@
+S.no,Truck name,Box volume(m^3),Tire weight(in pounds),Tire pressure(in PSI),no of tires,GVW rating,Road conditions,load capacity(lb/PSI),validity
+1,Tata_Prima,16,128.76,120.504,10,27600,normal,1.068,Yes
+2,Tata_Prima,16,128.76,110.504,10,27600,normal,1.165,Yes
+3,Tata_Prima,16,128.76,100.504,10,27600,normal,1.281,Yes
+4,Tata_Prima,16,128.76,120.504,10,27600,inclined,1.233,Yes
+5,Tata_Prima,16,128.76,110.504,10,27600,inclined,1.345,Yes
+6,Tata_Prima,16,128.76,100.504,10,27600,inclined,1.478,Yes
+7,Tata_Prima,16,128.76,120.504,10,27600,declined,1.23,Yes
+8,Tata_Prima,16,128.76,110.504,10,27600,declined,1.341,Yes
+9,Tata_Prima,16,128.76,100.504,10,27600,declined,1.451,Yes
+10,Tata_Prima,16,128.76,120.504,10,27600,normal,0.068,No
+11,Tata_Prima,16,128.76,110.504,10,27600,normal,0.165,No
+12,Tata_Prima,16,128.76,100.504,10,27600,normal,0.281,No
+13,Tata_Prima,16,128.76,120.504,10,27600,inclined,0.233,No
+14,Tata_Prima,16,128.76,110.504,10,27600,inclined,0.345,No
+15,Tata_Prima,16,128.76,100.504,10,27600,inclined,0.478,No
+16,Tata_Prima,16,128.76,120.504,10,27600,declined,0.23,No
+17,Tata_Prima,16,128.76,110.504,10,27600,declined,0.341,No
+18,Tata_Prima,16,128.76,100.504,10,27600,declined,0.451,No
+19,Ashok Leyland,9.2,128.76,120.504,6,11900,normal,1.068,Yes
+20,Ashok Leyland,9.2,128.76,110.504,6,11900,normal,1.165,Yes
+21,Ashok Leyland,9.2,128.76,100.504,6,11900,normal,1.281,Yes
+22,Ashok Leyland,9.2,128.76,120.504,6,11900,inclined,1.233,Yes
+23,Ashok Leyland,9.2,128.76,110.504,6,11900,inclined,1.345,Yes
+24,Ashok Leyland,9.2,128.76,100.504,6,11900,inclined,1.478,Yes
+25,Ashok Leyland,9.2,128.76,120.504,6,11900,declined,1.23,Yes
+26,Ashok Leyland,9.2,128.76,110.504,6,11900,declined,1.341,Yes
+27,Ashok Leyland,9.2,128.76,100.504,6,11900,declined,1.451,Yes
+28,Benz,50,128.76,120.504,10,28000,normal,1.068,Yes
+29,Benz,50,128.76,110.504,10,28000,normal,1.165,Yes
+30,Benz,50,128.76,100.504,10,28000,normal,1.281,Yes
+31,Benz,50,128.76,120.504,10,28000,inclined,1.233,Yes
+32,Benz,50,128.76,110.504,10,28000,inclined,1.345,Yes
+33,Benz,50,128.76,100.504,10,28000,inclined,1.478,Yes
+34,Benz,50,128.76,120.504,10,28000,declined,1.23,Yes
+35,Benz,50,128.76,110.504,10,28000,declined,1.341,Yes
+36,Benz,50,128.76,100.504,10,28000,declined,1.451,Yes
+37,Mahendra,19.8,63.05,72.5189,6,11280,normal,0.868,Yes
+38,Mahendra,19.8,63.05,62.5189,6,11280,normal,1.008,Yes
+39,Mahendra,19.8,63.05,52.5189,6,11280,normal,1.199,Yes
+40,Mahendra,19.8,63.05,72.5189,6,11280,inclined,1.002,Yes
+41,Mahendra,19.8,63.05,62.5189,6,11280,inclined,1.163,Yes
+42,Mahendra,19.8,63.05,52.5189,6,11280,inclined,1.384,Yes
+43,Mahendra,19.8,63.05,72.5189,6,11280,declined,1.023,Yes
+44,Mahendra,19.8,63.05,62.5189,6,11280,declined,1.165,Yes
+45,Mahendra,19.8,63.05,52.5189,6,11280,declined,1.394,Yes
+46,Mahendra,19.8,63.05,72.5189,6,11280,normal,1.083,No
+47,Mahendra,19.8,63.05,62.5189,6,11280,normal,0.008,No
+48,Mahendra,19.8,63.05,52.5189,6,11280,normal,0.099,No
+49,Mahendra,19.8,63.05,72.5189,6,11280,inclined,0.002,No
+50,Mahendra,19.8,63.05,62.5189,6,11280,inclined,0.263,No
+51,Mahendra,19.8,63.05,52.5189,6,11280,inclined,0.386,No
+52,Mahendra,19.8,63.05,72.5189,6,11280,declined,0.023,No
+53,Mahendra,19.8,63.05,62.5189,6,11280,declined,0.165,No
+54,Mahendra,19.8,63.05,52.5189,6,11280,declined,0.394,No
+55,Ashok Leyland,9.2,128.76,120.504,6,11900,normal,0.068,No
+56,Ashok Leyland,9.2,128.76,110.504,6,11900,normal,0.165,No
+57,Ashok Leyland,9.2,128.76,100.504,6,11900,normal,0.281,No
+58,Ashok Leyland,9.2,128.76,120.504,6,11900,inclined,0.233,No
+59,Ashok Leyland,9.2,128.76,110.504,6,11900,inclined,0.345,No
+60,Ashok Leyland,9.2,128.76,100.504,6,11900,inclined,0.478,No
+61,Ashok Leyland,9.2,128.76,120.504,6,11900,declined,0.23,No
+62,Ashok Leyland,9.2,128.76,110.504,6,11900,declined,0.341,No
+63,Ashok Leyland,9.2,128.76,100.504,6,11900,declined,0.451,No
+64,Benz,50,128.76,120.504,10,28000,normal,0.068,No
+65,Benz,50,128.76,110.504,10,28000,normal,0.165,No
+66,Benz,50,128.76,100.504,10,28000,normal,0.281,No
+67,Benz,50,128.76,120.504,10,28000,inclined,0.233,No
+68,Benz,50,128.76,110.504,10,28000,inclined,0.345,No
+69,Benz,50,128.76,100.504,10,28000,inclined,0.478,No
+70,Benz,50,128.76,120.504,10,28000,declined,0.23,No
+71,Benz,50,128.76,110.504,10,28000,declined,0.341,No
+72,Benz,50,128.76,100.504,10,28000,declined,0.451,No
+73,Tata_Prima,16,128.76,120.504,10,55000,declined,0.23,Yes
+74,Tata_Prima,16,128.76,110.504,10,51000,declined,0.341,Yes
+75,Benz,50,128.76,110.504,10,75000,declined,0.341,No
+76,Benz,50,128.76,100.504,10,60000,declined,0.451,No
+77,Ashok Leyland,9.2,128.76,110.504,6,51000,declined,0.341,No
+78,Ashok Leyland,9.2,128.76,100.504,6,52000,declined,0.451,No
+79,Mahendra,19.8,63.05,72.5189,6,60000,normal,1.083,No
+80,Mahendra,19.8,63.05,62.5189,6,61000,normal,0.008,No
